@@ -20,3 +20,4 @@ Cambiando rama: git checkout main
 
 Merge desde ram aprincipal: git merge #name
 
+Para hacer un push: git push o git push origin feature/nueva-funcionalidad
