@@ -1,2 +1,0 @@
-Hola, mi primer doc en github
-Otra forma de git
